@@ -1,7 +1,7 @@
 ### List of useful tools, libraries and resources for web developers
 
 * [Javascript libraries](#javascript-libraries)
-* [CSS / Design](#css-/-design)
+* [CSS / Design](#css-and-design)
 
 
 ### Javascript libraries
@@ -105,7 +105,7 @@
 [**Lodash**](https://lodash.com) – A modern JavaScript utility library delivering modularity, performance & extras.
 
 
-### CSS / Design
+### CSS and Design
 
 * [Animate.css](https://daneden.github.io/animate.css/) — Animation library
 
