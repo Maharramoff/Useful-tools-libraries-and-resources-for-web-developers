@@ -1,4 +1,4 @@
-# 67 useful tools, libraries and resources for saving your time as a web developer => [***Original source***](https://hackernoon.com/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-7d3fb8667030)
+### List of useful tools, libraries and resources for web developers
 
 ![](https://cdn-images-1.medium.com/max/800/1*aalTd6nKuVR31c3-bEED8g.jpeg)
 
@@ -147,3 +147,5 @@
 
 [**Learn anything**](https://learn-anything.xyz/learn-anything)— Powerful mind maps that break down a certain subject
 
+
+[***Original source***](https://hackernoon.com/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-7d3fb8667030)
