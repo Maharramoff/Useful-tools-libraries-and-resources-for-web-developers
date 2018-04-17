@@ -5,17 +5,19 @@
 
 ### Javascript libraries
 
-[**Particles.js**](http://vincentgarreau.com/particles.js/)— A library for creating beautiful floating particles on a web page
+[**Particles.js**](http://vincentgarreau.com/particles.js/) — A library for creating beautiful floating particles on a web page
 
 [**Three.js**](https://threejs.org/) — A library for creating 3d objects and spaces on a web page
 
-[**Fullpage.js**](https://alvarotrigo.com/fullPage/#firstPage)— Easy to implement full page scroll feature
+[**Fullpage.js**](https://alvarotrigo.com/fullPage/#firstPage) — Easy to implement full page scroll feature
+
+[**D3.js**](https://d3js.org) – JavaScript library for manipulating documents based on data. 
 
 [**Typed.js**](http://www.mattboldt.com/demos/typed-js/) — Typewriter effect
 
-[**Waypoints.js**](http://imakewebthings.com/waypoints/)— Trigger a function when you scroll to an element
+[**Waypoints.js**](http://imakewebthings.com/waypoints/) — Trigger a function when you scroll to an element
 
-[**Highlight.js** ](https://highlightjs.org/)— Syntax highlighting for the web
+[**Highlight.js** ](https://highlightjs.org/) — Syntax highlighting for the web
 
 [**Chart.js**](http://www.chartjs.org/) — Make beautiful charts using only javascript
 
@@ -23,7 +25,7 @@
 
 [**Chartist**](http://gionkunz.github.io/chartist-js/index.html) — Another chart library
 
-[**Motio**](http://darsa.in/motio/#!introduction)— A library for sprite based animations and panning
+[**Motio**](http://darsa.in/motio/#!introduction) — A library for sprite based animations and panning
 
 [**Animstion**](http://git.blivesta.com/animsition/) — Jquery plugin for css animated page transitions
 
@@ -77,6 +79,8 @@
 
 [**Cleave.js**](http://nosir.github.io/cleave.js/)— Format content while typing
 
+[**Underscore.js**](http://underscorejs.org) – JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
+
 [**Page**](http://smalljs.org/client-side-routing/page/) — Client side routing for single page applications
 
 [**Selectize.js**](http://selectize.github.io/selectize.js/) — Hybrid select box for adding tags
@@ -93,59 +97,67 @@
 
 [**IziToast**](http://izitoast.marcelodolce.com/) — Easy to implement js notifications
 
+[**Moment.js**](http://momentjs.com) – Parse, validate, manipulate, and display dates and times in JavaScript.
+
 [**IziModal**](http://izimodal.marcelodolce.com/)— Easy to implement js modals
+
+[**Lodash**](https://lodash.com) – A modern JavaScript utility library delivering modularity, performance & extras.
+
 
 ### CSS libraries / Design stuff
 
-[**Animate.css**](https://daneden.github.io/animate.css/) — Animation library
+* [Animate.css](https://daneden.github.io/animate.css/) — Animation library
 
-[**Flat UI Colors**](https://flatuicolors.com/)— List of simple and effective main colors
+* [Flat UI Colors](https://flatuicolors.com/)— List of simple and effective main colors
 
-[**Material design lite**](https://getmdl.io/index.html)— Framework based on Google’s material design
+* [Material design lite](https://getmdl.io/index.html)— Framework based on Google’s material design
 
-[**Materialui.co**](https://www.materialui.co/) — Many resources for Material design framework
+* [Materialui.co](https://www.materialui.co/) — Many resources for Material design framework
 
-[**Colorrrs**](https://www.webpagefx.com/web-design/random-color-picker/)— Random color generator
+* [Colorrrs](https://www.webpagefx.com/web-design/random-color-picker/)— Random color generator
 
-[**Section separators**](https://tympanus.net/Development/SectionSeparators/) — Css section dividers
+* [Section separators](https://tympanus.net/Development/SectionSeparators/) — Css section dividers
 
-[**Topcoat**](http://topcoat.io/) — Framework
+* [Topcoat](http://topcoat.io/) — Framework
 
-[**Create ken burns effect**](https://www.kirupa.com/html5/ken_burns_effect_css.htm)— Ken burns effect using css3 animations
+* [Create ken burns effect](https://www.kirupa.com/html5/ken_burns_effect_css.htm)— Ken burns effect using css3 animations
 
-[**DynCSS**](http://www.vittoriozaccaria.net/dyn-css/) — Add functions to css, to make it dynamic
+* [DynCSS](http://www.vittoriozaccaria.net/dyn-css/) — Add functions to css, to make it dynamic
 
-[**Magic animations**](https://www.minimamente.com/example/magic_animations/) — Name speaks for itself
+* [Magic animations](https://www.minimamente.com/example/magic_animations/) — Name speaks for itself
 
-[**CSSpin**](https://webkul.github.io/csspin/) — Collection of css spinners
+* [CSSpin](https://webkul.github.io/csspin/) — Collection of css spinners
 
-[**Feather icons**](https://feathericons.com/) — Icons
+* [Feather icons](https://feathericons.com/) — Icons
 
-[**Ion icons**](http://ionicons.com/) — Icons
+* [Ion icons](http://ionicons.com/) — Icons
 
-[**Font awesome**](http://fontawesome.io/) — Icons
+* [Font awesome](http://fontawesome.io/) — Icons
 
-[**Font generator**](http://brandmark.io/font-generator/) — Combine multiple fonts and create a mixture
+* [Font generator](http://brandmark.io/font-generator/) — Combine multiple fonts and create a mixture
 
-[**On/Off switch**](https://proto.io/freebies/onoff/) — Create on/off switch in css, good for check or radio buttons
+* [On/Off switch](https://proto.io/freebies/onoff/) — Create on/off switch in css, good for check or radio buttons
 
-[**UI Kit**](https://getuikit.com/) — Framework
+* [UI Kit](https://getuikit.com/) — Framework
+* [Bootstrap](http://getbootstrap.com/) — Framework
+* [Foundation](http://foundation.zurb.com/)— Framework
 
-[**Bootstrap**](http://getbootstrap.com/) — Framework
-
-[**Foundation**](http://foundation.zurb.com/)— Framework
 
 ### Useful products / links
 
-[**Capsulelink**](http://capsulelink.com) — Group, save and send links as one
-
-[**<head> cheatsheet**](https://github.com/joshbuchea/HEAD) — a list of everything that could go into <head> tag
-
-[**Ghost**](https://ghost.org/)— Simple blogging platform based on node.js
-
-[**What runs**](https://www.whatruns.com/) — Chrome plugin to discover what technologies are used to build a website
-
-[**Learn anything**](https://learn-anything.xyz/learn-anything)— Powerful mind maps that break down a certain subject
+* [Capsulelink](http://capsulelink.com) — Group, save and send links as one
+* [<head> cheatsheet](https://github.com/joshbuchea/HEAD) — a list of everything that could go into <head> tag
+* [Ghost](https://ghost.org/) — Simple blogging platform based on node.js
+* [What runs](https://www.whatruns.com/) — Chrome plugin to discover what technologies are used to build a website
+* [Learn anything](https://learn-anything.xyz/learn-anything) — Powerful mind maps that break down a certain subject
 
 
-[***Original source***](https://hackernoon.com/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-7d3fb8667030)
+### Learning Resources
+
+* [freeCodeCamp](https://www.freecodecamp.com) – An open source community that helps you learn to code.
+* [Codecademy](https://www.codecademy.com) – Codecademy the best place for our team to learn, teach, and create the online learning experience of the future.
+* [Dreamweaver Tutorial](https://websitesetup.org/dreamweaver-tutorial/) – Step-by-step guide for creating a website using dreamweaver.
+* [CodeSchool](https://www.codeschool.com) – The interactive learning destination for aspiring and experienced developers.
+* [Tutorialzine](https://tutorialzine.com) – A community of talented developers who learn together.
+* [Bento](https://bento.io) – A free full stack web dev curriculum by top engineers.
+
