@@ -156,3 +156,4 @@
 * [Font Awesome](http://fontawesome.io) – Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 * [Feather icons](https://feathericons.com/) — Simply beautiful open source icons
 * [Ion icons](http://ionicons.com/) — The premium icon font for Ionic Framework.
+* [Icons for everything](https://thenounproject.com/) - Over a million curated icons, created by a global community
