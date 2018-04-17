@@ -61,23 +61,24 @@
 
 * [Animate.css](https://daneden.github.io/animate.css/) — Animation library
 * [Flat UI Colors](https://flatuicolors.com/)— List of simple and effective main colors
-* [Material design lite](https://getmdl.io/index.html)— Framework based on Google’s material design
-* [Materialui.co](https://www.materialui.co/) — Many resources for Material design framework
 * [Colorrrs](https://www.webpagefx.com/web-design/random-color-picker/)— Random color generator
 * [Section separators](https://tympanus.net/Development/SectionSeparators/) — Css section dividers
-* [Topcoat](http://topcoat.io/) — Framework
 * [Create ken burns effect](https://www.kirupa.com/html5/ken_burns_effect_css.htm)— Ken burns effect using css3 animations
 * [DynCSS](http://www.vittoriozaccaria.net/dyn-css/) — Add functions to css, to make it dynamic
 * [Magic animations](https://www.minimamente.com/example/magic_animations/) — Name speaks for itself
 * [CSSpin](https://webkul.github.io/csspin/) — Collection of css spinners
-* [Feather icons](https://feathericons.com/) — Icons
-* [Ion icons](http://ionicons.com/) — Icons
-* [Font awesome](http://fontawesome.io/) — Icons
 * [Font generator](http://brandmark.io/font-generator/) — Combine multiple fonts and create a mixture
 * [On/Off switch](https://proto.io/freebies/onoff/) — Create on/off switch in css, good for check or radio buttons
-* [UI Kit](https://getuikit.com/) — Framework
-* [Bootstrap](http://getbootstrap.com/) — Framework
-* [Foundation](http://foundation.zurb.com/)— Framework
+* [InVision](https://www.invisionapp.com/?ref=creativetim) - InVision gives teams the freedom to design, review, and user test products—all without a single line of code. With intuitive tools for prototyping, task management, and version control, it’s your entire design process, all in one place.
+* [Creative Tim](https://www.creative-tim.com) – Creative Tim offers Bootstrap based design elements that speed up your development work. From plugins to complex kits, they have everything you need.
+* [Google Fonts](https://fonts.google.com) – Google Fonts help you to make the web more beautiful, fast, and open through great typography.
+* [Unsplash](https://unsplash.com) – Unsplash is the perfect place to find great and copyright-free photography.
+* [Colordot](https://color.hailpixel.com) – Colordot is a color picker for humans. It’s intuitive, fast, and beautiful.
+* [Dribbble](https://dribbble.com) – Dribbble is a place to show and tell, promote, discover, and explore design.
+* [ByPeople](https://www.bypeople.com) – ByPeople.com is a content network of useful resources (freebies, tool reviews and code snippets).
+* [Bootstrap Studio](https://bootstrapstudio.io) – A powerful desktop app for creating responsive websites using the Bootstrap framework.
+* [Canva](https://www.canva.com) – Use Canva’s drag-and-drop feature and professional layouts to design consistently stunning graphics.
+* [Pikwizard](https://pikwizard.com) – A free stock photo website.
 
 
 ### Useful products / links
@@ -98,3 +99,60 @@
 * [Tutorialzine](https://tutorialzine.com) – A community of talented developers who learn together.
 * [Bento](https://bento.io) – A free full stack web dev curriculum by top engineers.
 
+
+### Hosting and Browser
+ 
+* [BlueHost](https://www.bluehost.com/?ref=creativetim) – Bluehost is a leading web solutions services provider.
+* [Piwik](https://piwik.org) – Piwik is the leading open-source analytics platform that gives you more than just powerful analytics.
+* [Responsinator](http://www.responsinator.com) – Responsinator helps website makers quickly get an indication of how their responsive site will look on the most popular devices.
+* [Domainr](https://domainr.com) – Domainr helps you find the perfect name for your company or project by exploring the entire domain name space beyond the ubiquitous and crowded .com, .net, and .org.
+
+
+### Collaboration Tools
+
+* [Slack](https://slack.com) – Slack brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.
+* [Trello](https://trello.com) – Trello is the easy, free, flexible, and visual way to manage your projects and organize anything.
+* [RingCentral](https://glip.com) – RingCentral is a provider of state-of-the-art cloud communications solutions that help modern companies work the way they need to.
+* [Asana](https://asana.com/try) – Asana is the easiest way for teams to track their work—and get results.
+* [HipChat](https://www.hipchat.com) – Group chat, video chat, and screen sharing.
+
+
+### Learning Resources
+
+* [freeCodeCamp](https://www.freecodecamp.com) – An open source community that helps you learn to code.
+* [Codecademy](https://www.codecademy.com) – Codecademy the best place for our team to learn, teach, and create the online learning experience of the future.
+* [Dreamweaver Tutorial](https://websitesetup.org/dreamweaver-tutorial/) – Step-by-step guide for creating a website using dreamweaver.
+* [CodeSchool](https://www.codeschool.com) – The interactive learning destination for aspiring and experienced developers.
+* [Tutorialzine](https://tutorialzine.com) – A community of talented developers who learn together.
+* [Bento](https://bento.io) – A free full stack web dev curriculum by top engineers.
+
+
+### Front-end Frameworks
+
+* [Bootstrap](http://getbootstrap.com) – Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+* [Semantic UI](https://semantic-ui.com)  – Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
+* [UIkit](https://getuikit.com) – A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+* [Foundation](http://foundation.zurb.com) – Foundation is a family of responsive front-end frameworks that make it easy to design beautiful responsive websites, apps, and emails that look amazing on any device.
+* [Material design lite](https://getmdl.io/index.html)— Framework based on Google’s material design
+* [Topcoat](http://topcoat.io/) — CSS for clean and fast web apps.
+
+
+### Text Editors
+
+* [Brackets](http://brackets.io) – A modern, open source text editor that understands web design.
+* [Coda2](https://panic.com/coda/) – Coda is everything you need to hand-code a website, in one beautiful app.
+* [Visual Studio Code](https://code.visualstudio.com) – Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running and version control.
+* [Sublime Text](http://www.sublimetext.com) – Sublime Text is a sophisticated text editor for code, markup, and prose.
+* [Atom](https://atom.io) – Atom is a desktop application built with HTML, JavaScript, CSS, and Node.js integration.
+* [WebStorm](https://www.jetbrains.com/webstorm/) – Powerful IDE for the modern JavaScript development.
+
+
+### Icons
+
+* [Swifticons](https://www.swifticons.com) – Swifticons is a premium set of 2,264 high-quality icons, covering 20 categories in 6 editable styles.
+* [Icons8](https://icons8.com) – 52,600 Free Flat Icons, in any format, size, and color in 20 seconds.
+* [Nucleo App](https://nucleoapp.com?ref=creativetim) – Nucleo is a library of icons with super powers.
+* [Iconfinder](https://www.iconfinder.com) – Iconfinder provides high-quality icons to millions of creative professionals.
+* [Font Awesome](http://fontawesome.io) – Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
+* [Feather icons](https://feathericons.com/) — Simply beautiful open source icons
+* [Ion icons](http://ionicons.com/) — The premium icon font for Ionic Framework.
