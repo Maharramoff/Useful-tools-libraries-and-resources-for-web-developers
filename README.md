@@ -157,3 +157,7 @@
 * [Feather icons](https://feathericons.com/) — Simply beautiful open source icons
 * [Ion icons](http://ionicons.com/) — The premium icon font for Ionic Framework.
 * [Icons for everything](https://thenounproject.com/) - Over a million curated icons, created by a global community
+
+### Books
+
+* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - A JavaScript and jQuery Developer's Guide By Adnan Osmani
